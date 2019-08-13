@@ -18,6 +18,10 @@ namespace Project1
             int b = 1 * 2;
             //运行结果
             Console.WriteLine("1*2=" + b);
+            //除法运算
+            int c = 1 / 2;
+            //运行结果
+            Console.WriteLine("1/2=" + c);
             //等待读取信息
             Console.ReadLine();
         }
